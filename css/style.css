@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    background-color: #dfdfdf;
+    margin: 0 auto;
+    margin-top: 5%;
+    display: block;
+    margin-bottom: 2rem;
+}
+input{
+    margin: 0 auto;
+    display: block;
+}
